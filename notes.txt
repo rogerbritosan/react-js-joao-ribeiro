@@ -1,0 +1,8 @@
+React Developer Tools
+https://reactjs.org/blog/2015/09/02/new-react-developer-tools.html#installation
+https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
+
+Pra ler JSX
+https://reactjs.org/docs/add-react-to-a-website.html
+Add React to a Website > Optional: Try React with JSX (no bundler necessary!)
+<script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
